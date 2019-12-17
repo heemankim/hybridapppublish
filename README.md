@@ -1,1 +1,1 @@
-# hybridapppublish
+# 하이브리드앱 퍼블리싱 작업 환경 구성
