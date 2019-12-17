@@ -1,0 +1,19 @@
+{
+  "name": "publish-workspace",
+  "version": "1.0.0",
+  "description": "workspace for publish with scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.13.0"
+  }
+}
